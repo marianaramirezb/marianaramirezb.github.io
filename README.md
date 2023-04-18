@@ -1,7 +1,19 @@
 
 # **Mariana V. Ramírez Bustamante**
 
-<img class="rounded-circle shadow-4-strong" alt="avatar2" src="https://mdbcdn.b-cdn.net/img/new/avatars/1.webp" />
+<div class="container">
+	<div class="row">
+		<h2>Any image, size doesn´t matter, centered and respecting ratio</h2>
+	</div>
+    <div class="row">
+        <div class="col-sm-2">
+            <p> Image in to circle</p>
+            <div  class="ratio img-responsive img-circle" style="background-image: url(https://www.vanderbilt.edu/lapop/images/ramirez.png);"></div>
+            <p> Image in to circle with link</p>
+        </div>
+     
+    </div>
+</div>
 
 <p align="center">
 <img class="rounded-circle" alt="avatar1" src="https://www.vanderbilt.edu/lapop/images/ramirez.png"/>
