@@ -1,3 +1,7 @@
+<p align="center">
+// Mariana V. Ramírez Bustamante
+</p>
+
 # About me
 
 
