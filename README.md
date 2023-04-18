@@ -1,3 +1,5 @@
+gem "minima"
+$ bundle
 
 # **Mariana V. Ramírez Bustamante**
 
