@@ -1,5 +1,9 @@
 
-# Mariana V. Ramírez Bustamante
+# **Mariana V. Ramírez Bustamante**
+
+<p align="center">
+<img src="https://www.vanderbilt.edu/lapop/images/ramirez.png" alt="M" style="height: 100px; width:100px;"/>
+</p>
 
 <p align="center">
   <img width="420" height="550" src="https://www.vanderbilt.edu/lapop/images/ramirez.png">
