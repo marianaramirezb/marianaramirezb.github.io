@@ -1,5 +1,3 @@
-gem "minima"
-$ bundle
 
 # **Mariana V. Ramírez Bustamante**
 
@@ -15,4 +13,3 @@ Welcome to my personal website! My name is Mariana V. Ramírez Bustamante. I am 
 My research interests include the comparative study of illegal economies, particularly drug trafficking, and citizens' political behavior with an emphasis on the Latin American region. My dissertation project addresses why voters support narco-linked candidates, and, in turn, how drug trafficking organizations (DTOs) shape citizens’ political attitudes. To investigate these topics, I use a mixed-methods approach: I leverage original data from experiments, and observational data, including public opinion survey data and in-depth semi-structured interviews. My other ongoing projects or published work explore electoral behavior, representation, and public opinion more broadly.
   
 For questions, comments, or drafts of working papers, I can be reached at mariana.v.ramirez.bustamante@vanderbilt.edu. You can find my current CV here.
-
