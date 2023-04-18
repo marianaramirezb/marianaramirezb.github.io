@@ -1,5 +1,5 @@
 <p align="center">
-// Mariana V. Ramírez Bustamante
+Mariana V. Ramírez Bustamante
 </p>
 
 # About me
