@@ -1,11 +1,11 @@
 
-**Mariana V. Ramírez Bustamante**
+# Mariana V. Ramírez Bustamante
 
 <p align="center">
   <img width="420" height="550" src="https://www.vanderbilt.edu/lapop/images/ramirez.png">
 </p>
 
-# About me
+## About me
 
 
 Welcome! My name is Mariana Ramírez Bustamante. I am a fifth-year Ph.D. candidate in Comparative Politics and Political Methodology in the Department of Political Science and a Graduate Researcher Affiliate in the LAPOP Lab at Vanderbilt University. I hold a B.A. in Political Science and Government from the Pontifical Catholic University of Peru, an M.A. in Political Science from Vanderbilt University, and another M.A. in Latin American Studies from Salamanca University (Spain). 
