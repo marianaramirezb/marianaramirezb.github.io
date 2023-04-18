@@ -3,7 +3,7 @@ Mariana V. Ramírez Bustamante
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vanderbilt.edu%2Flapop%2Fimages%2Framirez.png&tbnid=_5lj9lA0s8Z-nM&vet=12ahUKEwi_p7u-vrL-AhUshYkEHaELBZwQMygHegQIARBM..i&imgrefurl=https%3A%2F%2Fwww.vanderbilt.edu%2Flapop%2Fgraduate-students.php&docid=FngMSZFlI8ypmM&w=559&h=748&q=mariana%20ramirez%20bustamante&client=safari&ved=2ahUKEwi_p7u-vrL-AhUshYkEHaELBZwQMygHegQIARBM)">
+  <img width="460" height="300" src="https://www.vanderbilt.edu/lapop/images/ramirez.png">
 </p>
 
 # About me
