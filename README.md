@@ -1,7 +1,7 @@
 
 # **Mariana V. Ramírez Bustamante**
 
-<img class="rounded-circle" alt="avatar1" src="https://mdbcdn.b-cdn.net/img/new/avatars/9.webp" />
+<img class="rounded-circle shadow-4-strong" alt="avatar2" src="https://mdbcdn.b-cdn.net/img/new/avatars/1.webp" />
 
 <p align="center">
 <img class="rounded-circle" alt="avatar1" src="https://www.vanderbilt.edu/lapop/images/ramirez.png"/>
