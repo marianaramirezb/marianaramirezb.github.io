@@ -1,5 +1,4 @@
-gem "minima"
-$ bundle
+theme: minima
 
 # **Mariana V. Ramírez Bustamante**
 
