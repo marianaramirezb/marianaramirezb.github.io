@@ -1,6 +1,6 @@
 # About me
 
-<div style="width: 60%; height: 60%">
+<div style="width: 40%; height: 40%">
  
   ![](mrb_spring2023.jpg)
   
