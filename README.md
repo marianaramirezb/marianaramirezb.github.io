@@ -2,7 +2,7 @@
 **Mariana V. Ramírez Bustamante**
 
 <p align="center">
-  <img width="450" height="550" src="https://www.vanderbilt.edu/lapop/images/ramirez.png">
+  <img width="420" height="550" src="https://www.vanderbilt.edu/lapop/images/ramirez.png">
 </p>
 
 # About me
