@@ -1,4 +1,3 @@
-theme: minima
 
 # **Mariana V. Ramírez Bustamante**
 
