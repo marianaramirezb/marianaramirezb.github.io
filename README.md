@@ -1,13 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<head>
- <title>Mariana V. Ramírez Bustamante</title>
- </head>
- <h1>About me</h1>
- 
- </body>
-
 <p align="center">
 <img class="ratio img-responsive img-circle"  src="https://www.vanderbilt.edu/lapop/images/ramirez.png"/>
 </p>
@@ -20,4 +11,4 @@ My research interests include the comparative study of illegal economies, partic
   
 For questions, comments, or drafts of working papers, I can be reached at mariana.v.ramirez.bustamante@vanderbilt.edu. You can find my current [CV here](https://www.dropbox.com/home/CV_mrb?preview=CV_mrb_april2023.pdf).
 
-</html>
+
